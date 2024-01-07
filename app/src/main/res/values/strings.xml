@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMvvM</string>
+    <string name="home">string</string>
+    <string name="documents">string</string>
+    <string name="reports">string</string>
+    <string name="backup">string</string>
+    <string name="person">string</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notify">string</string>
+</resources>
